@@ -2,8 +2,8 @@ import { Post, Comment } from '@/types';
 
 const POSTS_KEY = 'anonymous_adarsha_posts';
 const ADMIN_CREDENTIALS = {
-  username: 'admin',
-  password: 'admin123' // In a real app, this would be properly hashed and stored securely
+  username: 'arnav goswami',
+  password: 'ronaldo is op 17' // In a real app, this would be properly hashed and stored securely
 };
 
 export function getPosts(): Post[] {
